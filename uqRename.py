@@ -2,7 +2,7 @@ import sys
 import os
 from shutil import copyfile
 
-SEP = '_'
+SEP = '_'       # Directory separator in a filename
 
 
 
